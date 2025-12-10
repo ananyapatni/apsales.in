@@ -33,7 +33,9 @@ The project provides a clean and fast-loading static webpage intended to represe
 apsales.in/
 │
 ├── index.html                 # Primary webpage served at apsales.in
-├── apsales logo.jpg           # Branding asset used in the landing page
+├── assets
+      └── company profile
+      └── logo.jpg etc         
 ├── CNAME                      # Custom domain configuration for GitHub Pages
 ├── LICENSE                    # MIT License for open-source usage
 ├── README.md                  # Project documentation
